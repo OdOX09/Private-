@@ -5214,3 +5214,8 @@ http://51.222.111.105:25461/play/-pb0qbnXcE6fb9eevx4hvtjzbiUFeUmNn4q2nC0Xvuo/ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/F2D9FpU.png" group-title="Tyson vs Paul",Live 006
 http://client.newborne.xyz/374220/r9KcJf6r3/92132
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://thumbor.prod.vidiocdn.com/U_IGCAIYKlWKqw2F-KpF_z5BS4U=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg", RANS ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://kametv.my.id/pdx/play.m3u8?id=8241&type=hls
+
