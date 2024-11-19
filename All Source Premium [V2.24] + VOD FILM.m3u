@@ -10674,50 +10674,6 @@ http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/158351
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6ca471ab3849dccf46c8cf9be5e74478.png" group-title="Malaysia", MY: Food Network
 http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/196454
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="Malaysia", MY: FOX SPORTS 2
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/157488
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dd5b9bef97274c22a06f1f088d34936a.png" group-title="Malaysia", MY: HGTV Asia
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/157553
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="Malaysia", MY: Hits
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/157545
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="Malaysia", MY: HITS Movies
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/157477
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="Malaysia", MY: Local Now Family Flix
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/296889
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="Malaysia", MY: Nick Jr
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/157546
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/779a327b162bedaf7ba64567b0a05447.png" group-title="Malaysia", MY: nickelodeon
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/157541
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png" group-title="Malaysia", MY: NTV 7
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/174695
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg" group-title="Malaysia", MY: RTM TV 1
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/158357
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="Malaysia", MY: RTM TV 2
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/158355
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="Malaysia", MY: TV 3
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/158360
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png" group-title="Malaysia", MY: TV 9
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/171953
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6565f78da7926feade32fc9651446d1e.png" group-title="Malaysia", MY: TV Alhijrah
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/157491
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="Malaysia", MY: TVN Movies
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/297499
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="Malaysia", MY: Warner TV
-http://37.49.230.42:8080/iptvepic4/DzbGTtATy4DzmK8c/157550
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HH6N3y2/Picsart-22-08-30-16-33-35-999.png" group-title="CARTOON",Garfield
@@ -10740,7 +10696,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c
 
 #EXTINF:-1 group-title="CARTOON" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png" ,Mr.Bean
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Kung Fu Panda" tvg-logo="http://pictures.my.id/images/Kung-Fu-Panda-Series.png", The Paws of Destiny 01 SUB INDO
 http://abf.filmbluray.id/eeh5g6e
